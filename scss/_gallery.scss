@@ -1,0 +1,29 @@
+.ba-section-gallery {
+  background: #fff;
+
+  h3 {
+    text-align: center;
+    padding-top: 180px;
+    color: #2c4058;
+    font-family: "Gotham";
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 22px;
+    text-transform: uppercase;
+  }
+
+  .img {
+	  display: flex;
+    align-items: center;
+    padding-top: 100px;
+  }
+
+  .img1 {
+	  display: flex;
+  }
+
+  .img4 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
